@@ -24,9 +24,7 @@ The Sentiment Analysis App performs the following tasks:
 - `transformers` library
 - `torch` library
 
-### Screen Shots-
-
-# Image Gallery
+# Screen Shots
 
 | ![Landing Page](screenshots/img1.png)    | ![Excellent review](screenshots/img2.png) |
 | ---------------------------------------- | ----------------------------------------- |
