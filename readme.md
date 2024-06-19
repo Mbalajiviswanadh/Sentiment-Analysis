@@ -24,6 +24,15 @@ The Sentiment Analysis App performs the following tasks:
 - `transformers` library
 - `torch` library
 
+### Screen Shots-
+
+# Image Gallery
+
+| ![Landing Page](screenshots/img1.png)    | ![Excellent review](screenshots/img2.png) |
+| ---------------------------------------- | ----------------------------------------- |
+| ![worst review](screenshots/img3.png)    | ![Good review](screenshots/img4.png)      |
+| ![Modarate review](screenshots/img5.png) | ![Bad Review](screenshots/img6.png)       |
+
 ### Installation
 
 1. Clone the repository:
